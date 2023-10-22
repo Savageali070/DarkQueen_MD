@@ -1,5 +1,5 @@
 {
-  "name": "𝐷𝛥𝑅𝛫 𝑄𝑈𝛯𝛯𝛮 𝛭𝐷",
+  "name": "SA VA GE",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/2410f13a9a02224c996af.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
@@ -8,11 +8,11 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "X-Notiyar"
+      "value": "ALI"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
-     "required" :false
+     "value": "hello 👋 this is ali ,how may help you"
     },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94711928777"
+       "value": "254716637803"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
